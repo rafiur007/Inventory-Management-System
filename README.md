@@ -1,4 +1,4 @@
-# Simple Inventory Management System 📦
+# Simple Inventory Management System 
 
 This is our university project for Introduction to Programming Language II (JAVA). It's a desktop application built using Java Swing to track and manage inventory items.
 
