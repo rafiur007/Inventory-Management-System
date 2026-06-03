@@ -1,4 +1,4 @@
-manager package - package manager;
+package manager;
 
 import model.Item;
 import model.StandardItem;
